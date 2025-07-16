@@ -20,7 +20,7 @@ A powerful Streamlit-based chatbot that combines the capabilities of LangChain w
 
 1. **Clone the repository** (or save the code to a file):
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/Muhammad-Yousaf09/langchain-multiagent-chatbot)>
 cd langchain-search-chatbot
 ```
 
